@@ -1,6 +1,6 @@
 # Garage-bestellijst
 
-Zelfstandige mobiele bestellijst voor een garagevliering. Alle 28 regels komen uit de bestaande materiaallijst van 4 november 2026, met de standaardaantallen. De pagina bevat geen bouwplan of rekenhulp.
+Zelfstandige mobiele bestellijst voor een garagevliering. 28 regels komen uit de bestaande materiaallijst van 4 november 2026, met de standaardaantallen. Daar zijn 2 regels voor bescherming en transport aan toegevoegd: 2 paar GEBOL Multi-Flex-handschoenen en 4 MAMUTEC-spanbanden van 50 mm × 6 m. Handschoenmaat 10/XL is voorlopig en moet in de winkel worden gepast; het aantal spanbanden is een inkoopvoorstel en geen berekende sjoropstelling. Deze extra artikelen staan onder Fase 1. De pagina bevat geen bouwplan of rekenhulp.
 
 ## Publicatie
 

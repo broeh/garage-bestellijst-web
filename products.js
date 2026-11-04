@@ -506,6 +506,43 @@ window.SHOPPING = {
       "location": "Gang nog onbekend",
       "image": "assets/s416.svg",
       "imageNote": "Schematisch voorbeeld; merk en uitvoering nog te kiezen."
+    },
+    {
+      "id": "handschoenen",
+      "a": "GEBOL Werkhandschoenen Multi-Flex grijs/zwart maat 10",
+      "s": "Maat 10 / XL voorlopig · nitrilcoating · passen in de winkel",
+      "art": "8378881",
+      "url": "https://www.hornbach.nl/p/gebol-werkhandschoenen-multi-flex-grijs-zwart-maat-10/8378881/?marketNo=724",
+      "q": 2,
+      "u": "paar",
+      "w": "extra werkhandschoenen voor klussen en laden",
+      "pr": 3.95,
+      "v": true,
+      "loc": "Tegels",
+      "phase": "fase1",
+      "group": "Bescherming en transport",
+      "location": "Tegels, gang 7",
+      "image": "assets/product-8378881.jpg",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.182205314.jpg?dvid=8"
+    },
+    {
+      "id": "spanbanden",
+      "a": "MAMUTEC Spanband 50 mm met ratel en klauwhaak oranje, 6 m",
+      "s": "50 mm × 6 m · ratel + klauwhaken · EN 12195-2",
+      "art": "10399251",
+      "url": "https://www.hornbach.nl/p/mamutec-spanband-50-mm-met-ratel-en-klauwhaak-oranje-6-m/10399251/?marketNo=724",
+      "q": 4,
+      "u": "st",
+      "w": "lading vastzetten in de aanhangwagen",
+      "pr": 26.95,
+      "v": true,
+      "loc": "Gereedschap",
+      "phase": "fase1",
+      "group": "Bescherming en transport",
+      "location": "Gereedschap, gang 14",
+      "image": "assets/product-10399251.jpg",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47237989.jpg?dvid=8",
+      "imageNote": "4 stuks als inkoopvoorstel; benodigde sjoropstelling bepalen voor je belading en sjorpunten. Gebruik kantbescherming bij scherpe plaatranden."
     }
   ]
 };
