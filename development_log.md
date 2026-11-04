@@ -22,3 +22,5 @@
 - Verificatie geslaagd op 390 × 844: alle 30 regels, Toolstation als aparte winkel, juiste vervangende foto/link, voorraadteksten en alternatieven, zoeken op winkel en offline herladen. Oude vinkjes bij cache-update behouden; geen horizontale overflow of JavaScript-fouten. Mobiele artikelkaart en volledige screenshot gecontroleerd.
 
 - Aankopen van Hans verwerkt: 14 volledig gekochte artikelregels verwijderd; van 9 OSB-platen met vierzijdige tong en groef blijven er 2 over. Restant heeft een eigen vinkje zodat eerdere lokale vinkjes het niet verbergen. Offline cacheversie bijgewerkt; bouwplan blijft de totale materiaalbehoefte tonen.
+
+- Op verzoek de spanbanden, DuoPower-pluggen 10 × 50 en houtdraadbouten 8 × 60 van de mobiele bestellijst verwijderd. Offline cacheversie bijgewerkt.
