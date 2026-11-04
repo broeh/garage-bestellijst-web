@@ -1,0 +1,36 @@
+# Garage-bestellijst
+
+Zelfstandige mobiele bestellijst voor een garagevliering. Alle 28 regels komen uit de bestaande materiaallijst van 4 november 2026, met de standaardaantallen. De pagina bevat geen bouwplan of rekenhulp.
+
+## Gebruik
+
+- Kies Fase 1, Gereedschap, Fase 2 of Alles.
+- Artikelen staan op volgorde van het gangnummer in Hornbach Den Haag, vestiging 724.
+- Vink af wat al is gekocht. Vinkjes blijven per browser en toestel bewaard, zonder synchronisatie.
+- Zoek op naam, specificatie, artikelnummer of gang. Met ‘Alleen nog nodig’ verdwijnen afgevinkte artikelen.
+- Wacht bij de eerste online opening tot ‘Offline beschikbaar’ verschijnt. Daarna kan de lijst inclusief afbeeldingen offline worden herladen. Externe productlinks vereisen internet.
+- Je kunt de pagina via het deelmenu van je mobiele browser op je beginscherm zetten.
+
+## Gegevens en afbeeldingen
+
+`products.js` bevat de aantallen, prijsindicaties, productlinks en ganglocaties. Gegevens worden niet automatisch bijgewerkt vanuit het oorspronkelijke rapport of Hornbach. Productlinks bevatten `marketNo=724` voor Den Haag.
+
+Productfoto’s zijn lokaal opgeslagen in `assets/`, met de originele bron-URL in `imageSource`. De drie artikelen zonder gekozen merk of uitvoering hebben een schematische SVG-illustratie. Bij de ankernagels staat een voorbeeldfoto van de niet-leverbare DRAKENA-uitvoering; de kooplocatie blijft ‘elders’. De twee HECO-artikelen zonder gangnummer staan onder bestellen in de vestiging.
+
+De optionele trapleuning telt niet mee in het bedrag. Prijzen en voorraad kunnen afwijken. Deze pagina is een boodschappenlijst en valideert geen constructie of bevestigingsmiddelen.
+
+## Lokaal openen
+
+Geen build of installatie nodig:
+
+```sh
+python -m http.server 8766 --bind 127.0.0.1
+```
+
+Open daarna `http://127.0.0.1:8766/`. Offline gebruik werkt via localhost of HTTPS. Rechtstreeks openen als bestand ondersteunt de service worker niet.
+
+Na een wijziging van pagina, scripts, stijlen of afbeeldingen: pas de cacheversie in `sw.js` aan en houd `ASSETS` gelijk aan de te bewaren bestanden. Bewaar altijd `index.html` en `./`, zodat beide URL-vormen offline werken.
+
+## Verificatie
+
+Gecontroleerd met Chromium op telefoonformaat 390 × 844: alle 28 artikelregels, alle afbeeldingen, afvinken na herladen, filters, zoeken, geen horizontale overflow en offline herladen met afbeeldingen en bewaarde vinkjes. Geen JavaScript-fouten. Daarnaast visuele controle van de mobiele screenshot en een volledige screenshot via de lokale screenshot-CLI.
