@@ -20,7 +20,9 @@ window.SHOPPING = {
       "group": "Hout",
       "location": "Hout, gang 4",
       "image": "assets/product-5185918.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.95942714.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.95942714.jpg?dvid=8",
+      "availability": "269 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "h69",
@@ -39,7 +41,9 @@ window.SHOPPING = {
       "group": "Hout",
       "location": "Hout, gang 4",
       "image": "assets/product-5185890.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.95942123.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.95942123.jpg?dvid=8",
+      "availability": "820 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "osbT",
@@ -58,7 +62,9 @@ window.SHOPPING = {
       "group": "Plaatmateriaal",
       "location": "Bouwmaterialen, gang 2",
       "image": "assets/product-6800344.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46647548.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46647548.jpg?dvid=8",
+      "availability": "2176 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "osbR",
@@ -77,7 +83,9 @@ window.SHOPPING = {
       "group": "Plaatmateriaal",
       "location": "Bouwmaterialen, gang 1",
       "image": "assets/product-6800343.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46647548.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46647548.jpg?dvid=8",
+      "availability": "397 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "r46",
@@ -95,7 +103,9 @@ window.SHOPPING = {
       "group": "Balkdragers en staanders",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-4118477.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.52901714.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.52901714.jpg?dvid=8",
+      "availability": "103 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "hk",
@@ -113,7 +123,9 @@ window.SHOPPING = {
       "group": "Balkdragers en staanders",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-4118508.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46400578.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46400578.jpg?dvid=8",
+      "availability": "475 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "bsch",
@@ -131,7 +143,21 @@ window.SHOPPING = {
       "group": "Balkdragers en staanders",
       "location": "Op bestelling · geen gang vermeld",
       "image": "assets/product-10700474.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.69110551.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.69110551.jpg?dvid=8",
+      "availability": "Hornbach: alleen bestellen, aangegeven levertijd 8 werkdagen.",
+      "availabilityStatus": "unresolved",
+      "alternatives": [
+        {
+          "title": "Toolstation 16604: Fischer FBS II 6 × 60/5 US, 100 stuks",
+          "url": "https://www.toolstation.nl/fischer-betonschroeven-fbs-ii-zeskant/p16604",
+          "note": "Geen lokale voorraad teruggegeven voor Zoetermeer; wel 5 dozen in het magazijn. Moet worden besteld. Ander ankertype: buitenmaat 7,5 × 60 mm, boor 6 mm, boorgat minimaal 70 mm en dop SW10 volgens fischer (546391). Controleer de montage voor het hoekanker en de betonvloer vóór vervanging."
+        },
+        {
+          "title": "Toolstation 10304: HECO Multi-Monti 7,5 × 60",
+          "url": "https://www.toolstation.nl/heco-multi-monti-betonsteenbouten/p10304",
+          "note": "Geen voorraad teruggegeven voor Zoetermeer of het magazijn. Productpagina heeft tegenstrijdige maatgegevens; geen bevestigde directe vervanger."
+        }
+      ]
     },
     {
       "id": "uitvul",
@@ -149,7 +175,9 @@ window.SHOPPING = {
       "group": "Balkdragers en staanders",
       "location": "Bouwmaterialen, gang 7",
       "image": "assets/product-3291972.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46088071.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46088071.jpg?dvid=8",
+      "availability": "255 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "duo",
@@ -167,7 +195,9 @@ window.SHOPPING = {
       "group": "Pluggen in de muur · massieve baksteen, halfsteens",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-10185457.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47006078.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47006078.jpg?dvid=8",
+      "availability": "61 Pak op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "bout",
@@ -185,7 +215,9 @@ window.SHOPPING = {
       "group": "Pluggen in de muur · massieve baksteen, halfsteens",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-5217549.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46544613.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46544613.jpg?dvid=8",
+      "availability": "2 Pak op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "nail",
@@ -203,7 +235,26 @@ window.SHOPPING = {
       "url": "https://www.hornbach.nl/p/drakena-ankernagel-4-0x40-mm-galv-verzinkt-200-stuks/3830369/?marketNo=724",
       "imageNote": "Voorbeeld: DRAKENA 4 × 40, niet leverbaar bij Hornbach.",
       "image": "assets/product-3830369.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46548385.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46548385.jpg?dvid=8",
+      "availability": "Nog geen bevestigde koopoptie voor de volledige hoeveelheid 4,0 × 40 verzinkt.",
+      "availabilityStatus": "unresolved",
+      "alternatives": [
+        {
+          "title": "Toolstation 43289: schroefnagels 3,8 × 32, 100 stuks",
+          "url": "https://www.toolstation.nl/schroefnagels/p43289",
+          "note": "1 doos (100 stuks) in Zoetermeer, 7 dozen in het magazijn. Korter en dunner dan de gekozen 4 × 40; niet als gelijkwaardige vervanger bevestigd. GB noemt specifieke gripankernagels 3,8 × 32 voor hout dikker dan 35 mm, maar de Toolstation-pagina bevestigt niet dat dit die voorgeschreven uitvoering is. Ook 800 stuks samen is te weinig voor deze lijst."
+        },
+        {
+          "title": "Toolstation 46985: ankernagels blank, 40 mm",
+          "url": "https://www.toolstation.nl/ankernagels-blank-12kg/p46985",
+          "note": "Geen voorraad teruggegeven voor Zoetermeer of magazijn. Diameter en verzinkte uitvoering niet bevestigd; daarom geen geselecteerde vervanger."
+        },
+        {
+          "title": "GB: voorschriften houtverbindingen",
+          "url": "https://cms.gb.nl/sites/default/files/2025-05/GB_Techniekboek.pdf",
+          "note": "Zie gedrukte pagina 70 voor de specifieke gripankernagels. Voor GAMMA is geen passende, lokaal voorradige nagel bevestigd."
+        }
+      ]
     },
     {
       "id": "s680",
@@ -221,25 +272,38 @@ window.SHOPPING = {
       "group": "Nagels, schroeven, lijm",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-10434139.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.37853965.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.37853965.jpg?dvid=8",
+      "availability": "53 Pak op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "s6120",
-      "a": "HECO Topix-Plus 6,0 × 120 tellerkop",
-      "s": "blauw verzinkt, T30, 100 st",
-      "art": "10434632",
-      "url": "https://www.hornbach.nl/p/heco-topix-plus-universele-schroef-6-0x120-mm-tellerkop-torx-t30-deeldraad-blauw-verzinkt-100-stuks/10434632/?marketNo=724",
+      "a": "Woodies Ultimate tellerkopschroeven 6 × 120",
+      "s": "Verzinkt · deeldraad · TX30 · 100 stuks",
+      "art": "66383",
+      "url": "https://www.toolstation.nl/woodies-universele-schroeven-tellerkop-deeldraad/p66383",
       "q": 1,
       "u": "pak",
       "w": "onderregels wanden door de vloer, 15 stuks",
-      "pr": 32.05,
+      "pr": 26.33,
       "v": true,
-      "loc": "IJzerwaren",
+      "loc": "Toolstation Zoetermeer",
       "phase": "fase1",
       "group": "Nagels, schroeven, lijm",
-      "location": "Op bestelling · geen gang vermeld",
-      "image": "assets/product-10434632.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.37853958.jpg?dvid=8"
+      "location": "Balie · Platinastraat 66",
+      "image": "assets/product-ts-66383.jpg",
+      "imageSource": "https://cdn.toolstation.nl/images/140211-NL/800/66383.jpg",
+      "store": "Toolstation Zoetermeer",
+      "availability": "3 dozen van 100 stuks op voorraad in Zoetermeer; 1 doos nodig.",
+      "availabilityStatus": "available",
+      "imageNote": "Vervangt de HECO 6 × 120 met tellerkop: dezelfde maat, deeldraad en kopvorm. ETA 17/0286.",
+      "alternatives": [
+        {
+          "title": "GAMMA: Dynaplus tellerkop 6 × 120, 25 stuks",
+          "url": "https://www.gamma.nl/assortiment/dynaplus-houtbouwschroef-tellerkop-verzinkt-tx-30-6-0x120-25-stuks/p/B110551",
+          "note": "Maat en kopvorm komen overeen. Voor 100 stuks zijn 4 verpakkingen nodig. Voorraad GAMMA Zoetermeer niet bevestigd: de voorraadpagina blokkeert het ophalen."
+        }
+      ]
     },
     {
       "id": "s450",
@@ -257,7 +321,9 @@ window.SHOPPING = {
       "group": "Nagels, schroeven, lijm",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-10676392.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.62008891.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.62008891.jpg?dvid=8",
+      "availability": "23 Pak op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "s440",
@@ -275,7 +341,9 @@ window.SHOPPING = {
       "group": "Nagels, schroeven, lijm",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-10660052.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.60368726.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.60368726.jpg?dvid=8",
+      "availability": "39 Pak op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "kozijn",
@@ -293,7 +361,9 @@ window.SHOPPING = {
       "group": "Nagels, schroeven, lijm",
       "location": "IJzerwaren, gang 16",
       "image": "assets/product-6541415.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46239312.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46239312.jpg?dvid=8",
+      "availability": "4 Pak op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "lijm",
@@ -311,7 +381,9 @@ window.SHOPPING = {
       "group": "Nagels, schroeven, lijm",
       "location": "Decoratie, gang 23",
       "image": "assets/product-10247433.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.95385222.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.95385222.jpg?dvid=8",
+      "availability": "18 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "leuning",
@@ -346,7 +418,9 @@ window.SHOPPING = {
       "group": "Gereedschap om te kopen",
       "location": "Gereedschap, gang 20",
       "image": "assets/product-7753725.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46822139.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46822139.jpg?dvid=8",
+      "availability": "10 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "b6",
@@ -364,7 +438,9 @@ window.SHOPPING = {
       "group": "Gereedschap om te kopen",
       "location": "Gereedschap, gang 20",
       "image": "assets/product-4049508.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46500075.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46500075.jpg?dvid=8",
+      "availability": "102 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "b10",
@@ -382,7 +458,9 @@ window.SHOPPING = {
       "group": "Gereedschap om te kopen",
       "location": "Gereedschap, gang 20",
       "image": "assets/product-4049510.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46500075.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46500075.jpg?dvid=8",
+      "availability": "44 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "dop",
@@ -400,7 +478,9 @@ window.SHOPPING = {
       "group": "Gereedschap om te kopen",
       "location": "Gereedschap, gang 17",
       "image": "assets/product-8502907.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47099358.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47099358.jpg?dvid=8",
+      "availability": "13 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "b8",
@@ -418,7 +498,9 @@ window.SHOPPING = {
       "group": "Gereedschap om te kopen",
       "location": "Gereedschap, gang 20",
       "image": "assets/product-7849017.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47399435.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47399435.jpg?dvid=8",
+      "availability": "22 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "rail",
@@ -436,7 +518,9 @@ window.SHOPPING = {
       "group": "Fase 2 · rails en planken op de vliering (Dolle)",
       "location": "IJzerwaren, gang 14",
       "image": "assets/product-7473069.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46831127.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46831127.jpg?dvid=8",
+      "availability": "51 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "drager",
@@ -454,7 +538,9 @@ window.SHOPPING = {
       "group": "Fase 2 · rails en planken op de vliering (Dolle)",
       "location": "IJzerwaren, gang 14",
       "image": "assets/product-7473074.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46831454.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46831454.jpg?dvid=8",
+      "availability": "52 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "osbP",
@@ -473,7 +559,9 @@ window.SHOPPING = {
       "group": "Fase 2 · rails en planken op de vliering (Dolle)",
       "location": "Bouwmaterialen, gang 1",
       "image": "assets/product-6800343.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46647548.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46647548.jpg?dvid=8",
+      "availability": "397 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "plug",
@@ -523,7 +611,9 @@ window.SHOPPING = {
       "group": "Bescherming en transport",
       "location": "Tegels, gang 7",
       "image": "assets/product-8378881.jpg",
-      "imageSource": "https://media.hornbach.nl/hb/packshot/as.182205314.jpg?dvid=8"
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.182205314.jpg?dvid=8",
+      "availability": "341 Paar op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     },
     {
       "id": "spanbanden",
@@ -542,7 +632,10 @@ window.SHOPPING = {
       "location": "Gereedschap, gang 14",
       "image": "assets/product-10399251.jpg",
       "imageSource": "https://media.hornbach.nl/hb/packshot/as.47237989.jpg?dvid=8",
-      "imageNote": "4 stuks als inkoopvoorstel; benodigde sjoropstelling bepalen voor je belading en sjorpunten. Gebruik kantbescherming bij scherpe plaatranden."
+      "imageNote": "4 stuks als inkoopvoorstel; benodigde sjoropstelling bepalen voor je belading en sjorpunten. Gebruik kantbescherming bij scherpe plaatranden.",
+      "availability": "18 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
     }
-  ]
+  ],
+  "stockChecked": "2026-11-04"
 };

@@ -13,7 +13,7 @@ De publicatie is op verzoek tijdelijk. Er is geen automatische einddatum ingeste
 ## Gebruik
 
 - Kies Fase 1, Gereedschap, Fase 2 of Alles.
-- Artikelen staan op volgorde van het gangnummer in Hornbach Den Haag, vestiging 724.
+- Artikelen staan per winkel en op volgorde van het gangnummer in Hornbach Den Haag, vestiging 724. De tellerkopschroeven staan apart bij Toolstation Zoetermeer, Platinastraat 66.
 - Vink af wat al is gekocht. Vinkjes blijven per browser en toestel bewaard, zonder synchronisatie.
 - Zoek op naam, specificatie, artikelnummer of gang. Met ‘Alleen nog nodig’ verdwijnen afgevinkte artikelen.
 - Wacht bij de eerste online opening tot ‘Offline beschikbaar’ verschijnt. Daarna kan de lijst inclusief afbeeldingen offline worden herladen. Externe productlinks vereisen internet.
@@ -23,9 +23,17 @@ De publicatie is op verzoek tijdelijk. Er is geen automatische einddatum ingeste
 
 `products.js` bevat de aantallen, prijsindicaties, productlinks en ganglocaties. Gegevens worden niet automatisch bijgewerkt vanuit het oorspronkelijke rapport of Hornbach. Productlinks bevatten `marketNo=724` voor Den Haag.
 
-Productfoto’s zijn lokaal opgeslagen in `assets/`, met de originele bron-URL in `imageSource`. De drie artikelen zonder gekozen merk of uitvoering hebben een schematische SVG-illustratie. Bij de ankernagels staat een voorbeeldfoto van de niet-leverbare DRAKENA-uitvoering; de kooplocatie blijft ‘elders’. De twee HECO-artikelen zonder gangnummer staan onder bestellen in de vestiging.
+Productfoto’s van Hornbach en Toolstation zijn lokaal opgeslagen in `assets/`, met de originele bron-URL in `imageSource`. De drie artikelen zonder gekozen merk of uitvoering hebben een schematische SVG-illustratie. Bij de ankernagels staat een voorbeeldfoto van de niet-leverbare DRAKENA-uitvoering; de kooplocatie blijft ‘elders’. De HECO-betonschroeven blijven op bestelling staan. De HECO-tellerkopschroeven 6 × 120 zijn in de losse lijst vervangen door Woodies Ultimate 6 × 120 TX30, deeldraad met tellerkop, 100 stuks (Toolstation 66383). Er lagen bij controle 3 dozen in Zoetermeer; er is niets gereserveerd. De nagels blijven nog te regelen. Bij de drie onderzochte regels staan alternatieven met hun bevestigde voorraad en beperkingen.
 
 De optionele trapleuning telt niet mee in het bedrag. Prijzen en voorraad kunnen afwijken. Deze pagina is een boodschappenlijst en valideert geen constructie of bevestigingsmiddelen.
+
+## Voorraadcontrole
+
+`availability-check.json` bewaart de gecontroleerde Hornbach-voorraad en de Toolstation-voorraad voor vestiging AW (Zoetermeer) en WW (magazijn). Controle via de openbare winkelgegevens en de voorraadservice die de Toolstation-site zelf gebruikt; geen toegangscodes in dit project. Ontbrekende voorraadregels zijn niet als positieve voorraad bevestigd. De voorraad is een momentopname.
+
+GAMMA Zoetermeer: de directe website blokkeert voorraadcontrole met HTTP 429. De Dynaplus 6 × 120 tellerkop is een gevonden assortimentsoptie, zonder bevestigde lokale voorraad.
+
+De fischer FBS II 6 × 60/5 US (Toolstation 16604) is alleen als kandidaat opgenomen: magazijnvoorraad, geen bevestigde lokale voorraad, ander ankertype en montagevoorwaarden. De schroefnagels 3,8 × 32 (43289) zijn geen geselecteerde één-op-éénvervanger voor 4 × 40: in Zoetermeer slechts 100 stuks, in het magazijn 700; de exacte vereiste GB-uitvoering is niet bevestigd.
 
 ## Lokaal openen
 

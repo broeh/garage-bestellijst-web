@@ -1,0 +1,571 @@
+{
+  "checked": "2026-11-04",
+  "hornbach": [
+    {
+      "key": "5185918",
+      "art": "5185918",
+      "title": "KONSTA Vuren balk geschaafd 44 x 144 x ca. 3000 mm",
+      "url": "https://www.hornbach.nl/p/konsta-vuren-balk-geschaafd-44-x-144-x-ca-3000-mm/5185918/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 12.49,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Hout, gang 4",
+        "availabilityText": "269 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "5185890",
+      "art": "5185890",
+      "title": "KONSTA Vuren balk geschaafd 44 x 69 x ca. 3000 mm",
+      "url": "https://www.hornbach.nl/p/konsta-vuren-balk-geschaafd-44-x-69-x-ca-3000-mm/5185890/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 5.4,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Hout, gang 4",
+        "availabilityText": "820 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "6800344",
+      "art": "6800344",
+      "title": "Constructieplaat OSB-III 4-zijdige tong & groef 2440x590x18 mm",
+      "url": "https://www.hornbach.nl/p/constructieplaat-osb-iii-4-zijdige-tong-groef-2440x590x18-mm/6800344/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 12.65,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Bouwmaterialen, gang 2",
+        "availabilityText": "2176 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "6800343",
+      "art": "6800343",
+      "title": "Constructieplaat OSB-III 2-zijdige tong & groef 2440x1220x18 mm",
+      "url": "https://www.hornbach.nl/p/constructieplaat-osb-iii-2-zijdige-tong-groef-2440x1220x18-mm/6800343/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 24.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Bouwmaterialen, gang 1",
+        "availabilityText": "397 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "4118477",
+      "art": "4118477",
+      "title": "GB Raveeldrager zwaar 335/46x144 mm verzinkt",
+      "url": "https://www.hornbach.nl/shop/Raveeldrager-verzinkt-zwaar-46x146-mm/4118477/artikel.html?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 3,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "103 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "4118508",
+      "art": "4118508",
+      "title": "GB Hoekanker met ril 90x90x60 mm verzinkt",
+      "url": "https://www.hornbach.nl/p/gb-hoekanker-met-ril-90x90x60-mm-verzinkt/4118508/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 1.15,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "475 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "10700474",
+      "art": "10700474",
+      "title": "HECO MULTI-MONTI-plus SS Betonschroef 7,5x60 mm zeskantkop met aangeperste ring blauw verzinkt, 50 stuks",
+      "url": "https://www.hornbach.nl/p/heco-multi-monti-plus-ss-betonschroef-7-5x60-mm-zeskantkop-met-aangeperste-ring-blauw-verzinkt-50-stuks/10700474/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 24.95,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": false,
+        "locationText": null,
+        "availabilityText": null,
+        "supplementaryText": "Bestel ter plekke in jouw vestiging",
+        "deliveryTimeText": "Levertijd 8 werkdagen"
+      }
+    },
+    {
+      "key": "3291972",
+      "art": "3291972",
+      "title": "Uitvulplaatjes assortiment 24-delig",
+      "url": "https://www.hornbach.nl/p/uitvulplaatjes-assortiment-24-delig/3291972/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.99,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Bouwmaterialen, gang 7",
+        "availabilityText": "255 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "10185457",
+      "art": "10185457",
+      "title": "FISCHER Nylon plug Duopower 10x50, 50 stuks",
+      "url": "https://www.hornbach.nl/p/fischer-nylon-plug-duopower-10x50-50-stuks/10185457/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 9.25,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "61 Pak op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "5217549",
+      "art": "5217549",
+      "title": "DRESSELHAUS Houtdraadbout zeskant 8x60 mm DIN 571 galv. verzinkt, 100 stuks",
+      "url": "https://www.hornbach.nl/p/dresselhaus-houtdraadbout-zeskant-8x60-mm-din-571-galv-verzinkt-100-stuks/5217549/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 11.15,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "2 Pak op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "nail",
+      "art": "3830369",
+      "title": "DRAKENA Ankernagel 4,0x40 mm galv. verzinkt, 200 stuks",
+      "url": "https://www.hornbach.nl/p/drakena-ankernagel-4-0x40-mm-galv-verzinkt-200-stuks/3830369/?marketNo=724",
+      "price": null,
+      "ra": {
+        "canBeAddedToCart": false,
+        "locationText": null,
+        "availabilityText": null,
+        "supplementaryText": null,
+        "deliveryTimeText": null
+      }
+    },
+    {
+      "key": "10434139",
+      "art": "10434139",
+      "title": "HECO Topix-Plus Universele schroef 6,0x80 mm platverzonken kop met freesholtes Torx T30 deeldraad blauw verzinkt, 100 stuks",
+      "url": "https://www.hornbach.nl/p/heco-topix-plus-universele-schroef-6-0x80-mm-platverzonken-kop-met-freesholtes-torx-t30-deeldraad-blauw-verzinkt-100-stuks/10434139/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 16.6,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "53 Pak op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "10434632",
+      "art": "10434632",
+      "title": "HECO Topix-Plus Universele schroef 6,0x120 mm tellerkop Torx T30 deeldraad blauw verzinkt, 100 stuks",
+      "url": "https://www.hornbach.nl/p/heco-topix-plus-universele-schroef-6-0x120-mm-tellerkop-torx-t30-deeldraad-blauw-verzinkt-100-stuks/10434632/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 32.05,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": false,
+        "locationText": null,
+        "availabilityText": null,
+        "supplementaryText": "Bestel ter plekke in jouw vestiging",
+        "deliveryTimeText": "Op werkdagen voor 16.00 uur besteld, morgen in huis"
+      }
+    },
+    {
+      "key": "10676392",
+      "art": "10676392",
+      "title": "HECO Topix-Plus Universele schroef 4,5x50 mm platverzonken kop met freesholtes Torx T20 deeldraad blauw verzinkt, 500 stuks",
+      "url": "https://www.hornbach.nl/p/heco-topix-plus-universele-schroef-4-5x50-mm-platverzonken-kop-met-freesholtes-torx-t20-deeldraad-blauw-verzinkt-500-stuks/10676392/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 29.95,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "23 Pak op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "10660052",
+      "art": "10660052",
+      "title": "HECO Topix-Plus Universele schroef 4,5x40 mm platverzonken kop met freesholtes Torx T20 deeldraad blauw verzinkt, 200 stuks",
+      "url": "https://www.hornbach.nl/p/heco-topix-plus-universele-schroef-4-5x40-mm-platverzonken-kop-met-freesholtes-torx-t20-deeldraad-blauw-verzinkt-200-stuks/10660052/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 8.75,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "39 Pak op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "6541415",
+      "art": "6541415",
+      "title": "DRESSELHAUS Kozijnschroef verzonken kop 7,5x112 mm Torx T30 galv. verzinkt 100 stuks",
+      "url": "https://www.hornbach.nl/p/dresselhaus-kozijnschroef-verzonken-kop-7-5x112-mm-torx-t30-galv-verzinkt-100-stuks/6541415/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 19.95,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 16",
+        "availabilityText": "4 Pak op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "10247433",
+      "art": "10247433",
+      "title": "ROXOLID Wood-X houtlijm d3 750 g",
+      "url": "https://www.hornbach.nl/p/roxolid-wood-x-houtlijm-d3-750-g/10247433/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 7.89,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Decoratie, gang 23",
+        "availabilityText": "18 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "7753725",
+      "art": "7753725",
+      "title": "MAKITA Boorhamer HR2230",
+      "url": "https://www.hornbach.nl/shop/MAKITA-Boorhamer-HR2230/7753725/artikel.html?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 149.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Gereedschap, gang 20",
+        "availabilityText": "10 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "4049508",
+      "art": "4049508",
+      "title": "ALPEN SDS-plus hamerboor 160 mm ø 6,0 mm",
+      "url": "https://www.hornbach.nl/p/alpen-sds-plus-hamerboor-160-mm-o-6-0-mm/4049508/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 4.57,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Gereedschap, gang 20",
+        "availabilityText": "102 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "4049510",
+      "art": "4049510",
+      "title": "ALPEN SDS-plus hamerboor 160 mm ø 10,0 mm",
+      "url": "https://www.hornbach.nl/p/alpen-sds-plus-hamerboor-160-mm-o-10-0-mm/4049510/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 5.74,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Gereedschap, gang 20",
+        "availabilityText": "44 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "8502907",
+      "art": "8502907",
+      "title": "WGB Dopsleutelset 1/4\", 36-delig",
+      "url": "https://www.hornbach.nl/p/wgb-dopsleutelset-1-4-36-delig/8502907/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 38.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Gereedschap, gang 17",
+        "availabilityText": "13 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "7849017",
+      "art": "7849017",
+      "title": "ALPEN SDS-plus hamerboor 160 mm ø 8 mm",
+      "url": "https://www.hornbach.nl/shop/ALPEN-SDS-plus-hamerboor-160-mm-8-mm/7849017/artikel.html?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 12.76,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Gereedschap, gang 20",
+        "availabilityText": "22 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "7473069",
+      "art": "7473069",
+      "title": "DOLLE Wandrail dubbel 199,5 cm verzinkt",
+      "url": "https://www.hornbach.nl/p/dolle-wandrail-dubbel-199-5-cm-verzinkt/7473069/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 4.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 14",
+        "availabilityText": "51 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "7473074",
+      "art": "7473074",
+      "title": "DOLLE Plankdrager dubbel 47 cm verzinkt",
+      "url": "https://www.hornbach.nl/p/dolle-plankdrager-dubbel-47-cm-verzinkt/7473074/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.5,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "IJzerwaren, gang 14",
+        "availabilityText": "52 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "8378881",
+      "art": "8378881",
+      "title": "GEBOL Werkhandschoenen Multi-Flex grijs/zwart maat 10",
+      "url": "https://www.hornbach.nl/p/gebol-werkhandschoenen-multi-flex-grijs-zwart-maat-10/8378881/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 3.95,
+        "unit": "Paar",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Tegels, gang 7",
+        "availabilityText": "341 Paar op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    },
+    {
+      "key": "10399251",
+      "art": "10399251",
+      "title": "MAMUTEC Spanband 50 mm met ratel en klauwhaak oranje, 6 m",
+      "url": "https://www.hornbach.nl/p/mamutec-spanband-50-mm-met-ratel-en-klauwhaak-oranje-6-m/10399251/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 26.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "ra": {
+        "canBeAddedToCart": true,
+        "locationText": "Gereedschap, gang 14",
+        "availabilityText": "18 Stuks op voorraad in jouw vestiging",
+        "supplementaryText": "Gratis service",
+        "deliveryTimeText": "Plan zelf je afhaalmoment"
+      }
+    }
+  ],
+  "toolstation": {
+    "branch": {
+      "id": "AW",
+      "name": "Zoetermeer",
+      "address": "Toolstation Zoetermeer, Platinastraat 66, 2718 RX Zoetermeer, Nederland"
+    },
+    "stock": [
+      {
+        "product_code": "16601",
+        "stock_qty": "24",
+        "site_id": "WW",
+        "is_direct_ship": false
+      },
+      {
+        "product_code": "16604",
+        "stock_qty": "5",
+        "site_id": "WW",
+        "is_direct_ship": false
+      },
+      {
+        "product_code": "43289",
+        "stock_qty": "1",
+        "site_id": "AW",
+        "is_direct_ship": false
+      },
+      {
+        "product_code": "43289",
+        "stock_qty": "7",
+        "site_id": "WW",
+        "is_direct_ship": false
+      },
+      {
+        "product_code": "66383",
+        "stock_qty": "3",
+        "site_id": "AW",
+        "is_direct_ship": false
+      },
+      {
+        "product_code": "66383",
+        "stock_qty": "3",
+        "site_id": "WW",
+        "is_direct_ship": false
+      }
+    ],
+    "source": "https://ecom-api.toolstation.nl/ecom/v1/stock/getStock",
+    "note": "Ontbrekende product/site-combinaties worden niet als positieve voorraad bevestigd. WW is magazijn, AW is Zoetermeer."
+  },
+  "gamma": {
+    "store": "Zoetermeer, Argonstraat 11",
+    "status": "Lokale voorraad niet bevestigd; directe webtoegang geeft HTTP 429.",
+    "candidateUrl": "https://www.gamma.nl/assortiment/dynaplus-houtbouwschroef-tellerkop-verzinkt-tx-30-6-0x120-25-stuks/p/B110551"
+  }
+}
