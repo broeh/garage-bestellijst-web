@@ -4,6 +4,8 @@ Zelfstandige mobiele bestellijst voor een garagevliering. Alle 28 regels komen u
 
 ## Publicatie
 
+Open de bestellijst op je telefoon: https://broeh.github.io/garage-bestellijst-web/
+
 De openbare website wordt via GitHub Pages gebouwd uit de `main`-branch van `broeh/garage-bestellijst-web`, map `/`. De repository `broeh/garage-bestellijst` kon door een lopende GitHub-serverbewerking nog niet openbaar worden gemaakt; daarom staat dezelfde bron ook in de openbare webrepository. In deze checkout heet die tweede remote `public`. Push afgeronde wijzigingen naar beide remotes.
 
 De publicatie is op verzoek tijdelijk. Er is geen automatische einddatum ingesteld. Om de website weer uit te zetten: schakel GitHub Pages uit op de webrepository. Om ook de broncode af te schermen: zet de webrepository terug op privé.
