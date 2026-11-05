@@ -202,6 +202,26 @@ window.SHOPPING = {
       "imageNote": "Schematisch voorbeeld; merk en uitvoering nog te kiezen."
     },
     {
+      "id": "dop-opnieuw",
+      "a": "WGB dopsleutelset 1/4\", 36-delig",
+      "s": "ratel met doppen, o.a. 13 mm",
+      "art": "8502907",
+      "url": "https://www.hornbach.nl/p/wgb-dopsleutelset-1-4-36-delig/8502907/?marketNo=724",
+      "q": 1,
+      "u": "set",
+      "w": "bouten 8 × 60 (SW 13) en betonschroeven (SW 10) met de hand aandraaien",
+      "pr": 38.95,
+      "v": true,
+      "loc": "Gereedschap",
+      "phase": "tools",
+      "group": "Gereedschap om te kopen",
+      "location": "Gereedschap, gang 17",
+      "image": "assets/product-8502907.jpg",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47099358.jpg?dvid=8",
+      "availability": "13 Stuks op voorraad in jouw vestiging · Hornbach Den Haag",
+      "availabilityStatus": "available"
+    },
+    {
       "id": "rail",
       "a": "DOLLE wandrail dubbel 199,5 cm verzinkt",
       "s": "inkorten: 3 × 175, 1 × 117, 3 × 120, 7 × 99,5",
