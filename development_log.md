@@ -28,3 +28,5 @@
 - WGB-dopsleutelset 1/4 inch opnieuw toegevoegd aan Gereedschap, met een nieuw vinkje zodat een oud lokaal vinkje de set niet verbergt. Cacheversie bijgewerkt.
 
 - 11 november 2026: tab Nieuwe trip toegevoegd met producten en vestigingsgegevens voor Den Haag, eigen vinkjes, foto’s en offline cache. Aantallen voor platen en bevestiging zijn indicatief; draagvermogen en muurtype moeten nog worden gecontroleerd. SQ2-bit is nog niet als winkelartikel vastgesteld.
+
+- 11 november 2026: extra kleine planken gewijzigd naar twee enkele rails en vier enkele dragers van elk 30 en 40 cm. Dubbele rails voor de vliering terug naar de oorspronkelijke 11. Productgegevens Den Haag opnieuw opgehaald.
