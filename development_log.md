@@ -26,3 +26,5 @@
 - Op verzoek de spanbanden, DuoPower-pluggen 10 × 50 en houtdraadbouten 8 × 60 van de mobiele bestellijst verwijderd. Offline cacheversie bijgewerkt.
 
 - WGB-dopsleutelset 1/4 inch opnieuw toegevoegd aan Gereedschap, met een nieuw vinkje zodat een oud lokaal vinkje de set niet verbergt. Cacheversie bijgewerkt.
+
+- 11 november 2026: tab Nieuwe trip toegevoegd met producten en vestigingsgegevens voor Den Haag, eigen vinkjes, foto’s en offline cache. Aantallen voor platen en bevestiging zijn indicatief; draagvermogen en muurtype moeten nog worden gecontroleerd. SQ2-bit is nog niet als winkelartikel vastgesteld.

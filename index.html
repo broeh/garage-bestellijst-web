@@ -26,7 +26,8 @@
       <div class="progress-copy"><strong id="progress" aria-live="polite"></strong><span id="budget"></span></div>
       <progress id="bar" value="0" max="1" aria-label="Artikelen afgevinkt"></progress>
       <div class="tabs" role="group" aria-label="Welke boodschappen">
-        <button type="button" data-phase="fase1" aria-pressed="true">Fase 1</button>
+        <button type="button" data-phase="nieuw" aria-pressed="true">Nieuwe trip</button>
+        <button type="button" data-phase="fase1" aria-pressed="false">Fase 1</button>
         <button type="button" data-phase="tools" aria-pressed="false">Gereedschap</button>
         <button type="button" data-phase="fase2" aria-pressed="false">Fase 2</button>
         <button type="button" data-phase="all" aria-pressed="false">Alles</button>
@@ -34,10 +35,11 @@
       <label class="search"><span class="sr-only">Zoek een artikel of gang</span><input id="search" type="search" placeholder="Zoek artikel of gang…" autocomplete="off"></label>
       <div class="filter-row"><label><input id="remaining" type="checkbox"> Alleen nog nodig</label><span>Per winkel en gang</span></div>
     </section>
+    <aside class="notes" id="new-notes"><p><b>Nieuwe trip · 11 november 2026</b> Aantallen rails en dragers zijn een voorstel op basis van het oude ontwerp plus extra's. Platen en pluggen staan buiten het totaal: meet eerst de wanden, controleer wat je al hebt en bepaal de belasting. Prijzen, voorraad en gangen zijn momentopnamen.</p><p><b>Planken:</b> voor de 50 cm diepe dozenplanken kies liever 18 mm met rechte kanten en voldoende tussensteunen. 11 mm OSB alleen voor lichte spullen en korte overspanning. De getoonde 18 mm OSB voor de wand heeft twee tong- en groefkanten. Voor een mooie trapwand kan 9 mm Elliotis als bekleding op voldoende regels, niet als dragende wand of valbeveiliging. Bekijk de kwaliteit en randen in de winkel.</p><p><b>Bevestiging:</b> 6 mm pluggen zijn niet automatisch geschikt voor zware stellingen in halfsteens metselwerk. Kies pas na controle van steensoort, schroeven, railgaten, belasting en draagvermogen. Op de vlieringwand in de houten stijlen bevestigen, niet alleen in plaatmateriaal. Voor een schroef die in 18 mm eindigt: 16 mm is passend bij montage vanaf het oppervlak; meet de effectieve diepte bij verzonken kop.</p><p><b>Bits:</b> zoek T20 en T30 voor je HECO-schroeven en een lange vierkante SQ2/Robertson #2 voor pocket-hole schroeven; controleer de maat van je eigen schroeven. Concrete SQ2-bits en hun gang zijn nog niet vastgesteld.</p></aside>
     <div id="list" aria-label="Artikelen"></div>
     <p id="empty" hidden>Geen artikelen gevonden met dit filter.</p>
     <aside class="notes">
-      <p><b>Goed om te weten</b> Resterende aantallen na de aankopen van 4 november 2026. Prijsindicaties komen uit de oorspronkelijke materiaallijst. Gangpaden en voorraad gecontroleerd voor Hornbach Den Haag en Toolstation Zoetermeer op 4 november 2026. Voorraad is een momentopname; er is niets gereserveerd. GAMMA Zoetermeer kon niet op lokale voorraad worden gecontroleerd.</p>
+      <p><b>Goed om te weten</b> De oude tabbladen tonen resterende aantallen na de aankopen van 4 november 2026 met gegevens van toen. De nieuwe trip heeft afzonderlijke gegevens van 11 november 2026. Voorraad is een momentopname; er is niets gereserveerd. GAMMA Zoetermeer kon niet op lokale voorraad worden gecontroleerd.</p>
       <p>Vinkjes blijven op dit toestel in deze browser bewaard. Ze worden niet tussen telefoon en computer gesynchroniseerd. Als bovenaan ‘Offline beschikbaar’ staat, blijven de lijst en afbeeldingen ook zonder internet werken. Artikellinks hebben internet nodig.</p>
       <p>Foto’s: Hornbach en Toolstation. Drie generieke artikelen hebben een schematisch voorbeeld. Ankernagels koop je elders; hun foto is een voorbeeld. Deze lijst wordt niet automatisch bijgewerkt vanuit het bouwplan.</p>
     </aside>

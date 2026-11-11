@@ -1,10 +1,10 @@
 'use strict';
 const data = window.SHOPPING;
-const labels = { fase1: 'Fase 1', tools: 'Gereedschap', fase2: 'Fase 2' };
+const labels = { fase1: 'Fase 1', tools: 'Gereedschap', fase2: 'Fase 2', nieuw: 'Nieuwe trip' };
 const storageKey = 'garage-bestellijst-v1';
 let checked;
 try { checked = JSON.parse(localStorage.getItem(storageKey) || '{}'); } catch { checked = {}; }
-let phase = 'fase1';
+let phase = 'nieuw';
 const euro = n => n.toLocaleString('nl-NL', { style: 'currency', currency: 'EUR' });
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function aisle(item) {
@@ -13,6 +13,7 @@ function aisle(item) {
   return match ? Number(match[1]) : item.v === 'elders' ? 102 : item.location.startsWith('Op bestelling') ? 100 : 101;
 }
 function render() {
+  document.querySelector('#new-notes').hidden = phase !== 'nieuw';
   const selected = data.items.filter(i => phase === 'all' || i.phase === phase);
   const done = selected.filter(i => checked[i.id]).length;
   const budget = selected.filter(i => !i.opt).reduce((sum, i) => sum + i.q * i.pr, 0);
