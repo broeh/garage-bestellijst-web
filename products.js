@@ -624,7 +624,7 @@ window.SHOPPING = {
     {
       "id": "beslag-2441647",
       "a": "Plankdrager 15x20 cm wit",
-      "s": "15 cm diep × 20 cm hoog, 37 mm breed. Budgetdrager direct op hout voor planken van circa 15 cm diep. Past niet onder een plank van 10 cm; zie kleinere optie.",
+      "s": "15 cm diep × 20 cm hoog, 37 mm breed. Budgetdrager direct op hout voor planken van circa 15 cm diep. Voor plankjes van 10 cm kies de afzonderlijke 3F-drager met 8 cm diepte.",
       "art": "2441647",
       "url": "https://www.hornbach.nl/p/plankdrager-15x20-cm-wit/2441647/?marketNo=724",
       "q": 20,
@@ -638,14 +638,53 @@ window.SHOPPING = {
       "imageSource": "https://media.hornbach.nl/hb/packshot/as.46680340.jpg?dvid=8",
       "availability": "257 Stuks op voorraad in jouw vestiging · Den Haag · gecontroleerd 15-11-2026",
       "availabilityStatus": "available",
+      "checked": "2026-11-15"
+    },
+    {
+      "id": "beslag-2442811",
+      "a": "Plankdrager 3F 11,5x8 cm wit",
+      "s": "Voor plankjes van 10 cm: 8 cm diep × 11,5 cm hoog, 4 cm breed. Steekt 2 cm minder ver uit dan de plank. Voorstel: 20 stuks = 10 paar. Direct op hout bevestigen; aantal steunen en schroeven afstemmen op planklengte, ondergrond en belasting.",
+      "art": "2442811",
+      "url": "https://www.hornbach.nl/p/plankdrager-3f-11-5x8-cm-wit/2442811/?marketNo=724",
+      "q": 20,
+      "u": "st",
+      "pr": 2.95,
+      "v": true,
+      "phase": "beslag",
+      "group": "Beslag & elektra",
+      "location": "IJzerwaren, gang 14",
+      "image": "assets/product-2442811.jpg",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46683286.jpg?dvid=8",
+      "availability": "135 Stuks op voorraad in jouw vestiging · Den Haag · gecontroleerd 15-11-2026",
+      "availabilityStatus": "available",
       "checked": "2026-11-15",
       "alternatives": [
         {
-          "title": "Voor plankjes van 10 cm: 3F-drager, 8 cm diep × 11,5 cm hoog",
-          "url": "https://www.hornbach.nl/p/plankdrager-3f-11-5x8-cm-wit/2442811/?marketNo=724",
-          "note": "€ 2,95 per stuk; 20 stuks kosten € 59,00. Den Haag: 135 stuks, IJzerwaren gang 14. Kleiner, maar duurder dan de geselecteerde drager van 15 cm diep. Niet extra in het totaal opgenomen."
+          "title": "Dezelfde kleine drager in zwart, 8 cm diep",
+          "url": "https://www.hornbach.nl/p/plankdrager-3f-11-5x8-cm-zwart/2442800/?marketNo=724",
+          "note": "€ 2,95 per stuk; 88 stuks op voorraad gemeld in Den Haag, IJzerwaren gang 14. Kleurvariant ter vervanging van wit, geen extra bestelling."
         }
       ]
+    },
+    {
+      "id": "beslag-2442935",
+      "a": "Plankdrager 3F 16x10,5 cm wit",
+      "s": "Tussenmaat: 10,5 cm diep × 16 cm hoog, 4 cm breed. Voor plankjes van circa 11–15 cm diep. Te lang voor een plank van precies 10 cm. Optioneel voorstel: 20 stuks = 10 paar, buiten totaal.",
+      "art": "2442935",
+      "url": "https://www.hornbach.nl/p/plankdrager-3f-16x10-5-cm-wit/2442935/?marketNo=724",
+      "q": 20,
+      "u": "st",
+      "pr": 2.5,
+      "v": true,
+      "phase": "beslag",
+      "group": "Beslag & elektra",
+      "location": "IJzerwaren, gang 14",
+      "image": "assets/product-2442935.jpg",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46683286.jpg?dvid=8",
+      "availability": "118 Stuks op voorraad in jouw vestiging · Den Haag · gecontroleerd 15-11-2026",
+      "availabilityStatus": "available",
+      "checked": "2026-11-15",
+      "opt": true
     },
     {
       "id": "beslag-7023208",
@@ -764,7 +803,7 @@ window.SHOPPING = {
     {
       "id": "beslag-8229649",
       "a": "TOX Gipskartonplug GDK Spiral GDK32+S, 50 stuks",
-      "s": "50 pluggen met schroeven, GDK32+S. Voor lichte bevestigingen in enkellaags gipskarton. Controleer plaatdikte, holle ruimte en draaglast; voor zware planken in de achterliggende stijlen bevestigen.",
+      "s": "50 pluggen voor lichte bevestigingen in enkellaags gipskarton. Let op: Hornbach noemt GDK32+S, maar EAN 4049563001334 hoort bij TOX Spiral 32 zonder schroeven. Meegeleverde schroeven dus niet bevestigd; controleer de verpakking. Bijpassende schroeven apart nodig als ze ontbreken. Niet voor zware planken.",
       "art": "8229649",
       "url": "https://www.hornbach.nl/p/tox-gipskartonplug-gdk-spiral-gdk32s-50-stuks/8229649/?marketNo=724",
       "q": 1,
@@ -778,7 +817,14 @@ window.SHOPPING = {
       "imageSource": "https://media.hornbach.nl/hb/packshot/as.47079961.jpg?dvid=8",
       "availability": "52 Pak op voorraad in jouw vestiging · Den Haag · gecontroleerd 15-11-2026",
       "availabilityStatus": "available",
-      "checked": "2026-11-15"
+      "checked": "2026-11-15",
+      "alternatives": [
+        {
+          "title": "TOX: uitvoering volgens het opgegeven EAN",
+          "url": "https://www.tox.de/Spiral/068100231",
+          "note": "EAN 4049563001334: Spiral 32, productnummer 068100231. De uitvoering met schroeven is 068101231, EAN 4049563001341. Hornbach-titel en EAN komen niet overeen; koop niet op de titel alleen."
+        }
+      ]
     },
     {
       "id": "beslag-7230677",

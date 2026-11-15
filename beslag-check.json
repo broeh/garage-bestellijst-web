@@ -1229,6 +1229,259 @@
         }
       ],
       "description": ""
+    },
+    {
+      "article": "2442811",
+      "title": "Plankdrager 3F 11,5x8 cm wit",
+      "url": "https://www.hornbach.nl/p/plankdrager-3f-11-5x8-cm-wit/2442811/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "135 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46683286.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Console"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "40 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "115 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "80 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "De specificatie van het draagvermogen is per stuk, Gaten aan de binnenkant verzonken"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "30 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "SYJG"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "2002442811006, 4003984250177"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "article": "2442935",
+      "title": "Plankdrager 3F 16x10,5 cm wit",
+      "url": "https://www.hornbach.nl/p/plankdrager-3f-16x10-5-cm-wit/2442935/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.5,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "118 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46683286.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Console"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "40 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "160 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "105 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "De specificatie van het draagvermogen is per stuk, Gaten aan de binnenkant verzonken"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "50 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "EHJ8"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "2002442935009, 4003984250221"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "article": "2442800",
+      "title": "Plankdrager 3F 11,5x8 cm zwart",
+      "url": "https://www.hornbach.nl/p/plankdrager-3f-11-5x8-cm-zwart/2442800/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "88 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46682917.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Console"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "40 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "115 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "80 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "De specificatie van het draagvermogen is per stuk, Gaten aan de binnenkant verzonken"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "30 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Zwart"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "2002442800000, 4003984251051"
+        }
+      ],
+      "description": ""
     }
-  ]
+  ],
+  "review": {
+    "checked": "2026-11-15",
+    "plugDiscrepancy": {
+      "article": "8229649",
+      "hornbachEAN": "4049563001334",
+      "manufacturerURL": "https://www.tox.de/Spiral/068100231",
+      "manufacturerProduct": "068100231 Spiral 32, 50 pluggen zonder schroeven",
+      "withScrewsProduct": "068101231, EAN 4049563001341",
+      "withScrewsURL": "https://www.tox.de/Spiral/068101231",
+      "note": "Fabrikant-gtin13 op beide productpagina’s gecontroleerd; schroeven niet als meegeleverd meetellen."
+    }
+  }
 }

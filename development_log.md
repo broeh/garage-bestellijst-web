@@ -39,3 +39,11 @@
 - Tweelingsnoer uitgesloten: volgens Hornbach alleen tot 42 V. Voorlopig 10 m H03VV-F 2 × 0,75 mm² voor dubbelgeïsoleerde lampen; vraag flexibel snoer versus vaste bedrading staat nog open. Kroonstenen opgegeven voor 1,5–2,5 mm², daarom WAGO 221-413 als passende optionele keuze voor dun lampsnoer.
 - Tabknoppen kunnen afbreken op mobiel; offline cache uitgebreid en versie verhoogd. README bijgewerkt met aantallen, keuzes, bronnen en open punten.
 - Verificatie: node --check voor app.js, products.js en sw.js geslaagd. Chromium 390 × 844: 13 regels, prijs, afbeeldingen, eigen vinkjes na herladen, filters, 16 oude tripregels en offline met foto’s geslaagd; geen overflow of JavaScript-fouten. Desktop- en mobiele screenshot gecontroleerd.
+
+### Review en kleinere plankdragers
+
+- Voor planken van 10 cm een eigen bestelregel toegevoegd: 20 × 3F-drager wit, 8 cm diep / 11,5 cm hoog, art. 2442811 à € 2,95. Den Haag: 135 stuks, gang 14. Zwart als kleurvariant gekoppeld, 88 stuks op voorraad, dezelfde prijs.
+- Optioneel 20 × tussenmaat 10,5 cm diep / 16 cm hoog toegevoegd, art. 2442935 à € 2,50, 118 stuks in gang 14. Expliciet niet voor planken van precies 10 cm. Beide regels met foto, eigen vinkje en offline cache. Bestaande 15 cm dragers behouden.
+- Nieuw totaal € 205,99; tussenmaat € 50,00 en WAGO € 15,69 buiten totaal. README en winkelnotities bijgewerkt.
+- Review corrigeert eerdere claim over meegeleverde gipsplugschroeven: Hornbach-titel en EAN spreken elkaar tegen. TOX bevestigt EAN 4049563001334 bij 068100231 zonder schroeven; +S heeft EAN 4049563001341. Verpakking controleren; schroeven niet als meegeleverd tellen. Broncontrole vastgelegd in beslag-check.json.
+- Verificatie aanvulling: node --check products.js en sw.js, git diff --check en Chromium 390 × 844 geslaagd. 15 regels, totaal € 205,99, foto’s, afvinken na herladen, filters, behoud oude trip, optionele tussenmaat en offline laden gecontroleerd; geen JavaScript-fouten of horizontale overflow. Desktop-screenshot visueel gecontroleerd.
