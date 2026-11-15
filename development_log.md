@@ -30,3 +30,12 @@
 - 11 november 2026: tab Nieuwe trip toegevoegd met producten en vestigingsgegevens voor Den Haag, eigen vinkjes, foto’s en offline cache. Aantallen voor platen en bevestiging zijn indicatief; draagvermogen en muurtype moeten nog worden gecontroleerd. SQ2-bit is nog niet als winkelartikel vastgesteld.
 
 - 11 november 2026: extra kleine planken gewijzigd naar twee enkele rails en vier enkele dragers van elk 30 en 40 cm. Dubbele rails voor de vliering terug naar de oorspronkelijke 11. Productgegevens Den Haag opnieuw opgehaald.
+
+## 15 november 2026
+
+- Nieuw standaardtabblad Beslag & elektra met 13 regels, eigen vinkjes, lokale productfoto’s, voorraad en gangnummers voor Den Haag. Budgetselectie € 146,99; WAGO 50 stuks optioneel € 15,69.
+- Dubbele DOLLE-dragers gekozen in wit: 24 × 47 cm en 6 van elke kleinere gevonden maat 37, 27, 22 en 17 cm. Kleine stoelhoeken, 16 mm schroeven, directe plankdragers, 40 mm brede balkhoeken, gipspluggen, lampsnoer en kroonstenen toegevoegd. Kleinere directe drager als alternatief voor 10 cm plankdiepte.
+- Voorraad en gang gecontroleerd met winkelkeuze 724; gegevens en bronnen opgeslagen in beslag-check.json. Hornbach verstrekt geen vaknummers. Alle geselecteerde aantallen op voorraad gemeld.
+- Tweelingsnoer uitgesloten: volgens Hornbach alleen tot 42 V. Voorlopig 10 m H03VV-F 2 × 0,75 mm² voor dubbelgeïsoleerde lampen; vraag flexibel snoer versus vaste bedrading staat nog open. Kroonstenen opgegeven voor 1,5–2,5 mm², daarom WAGO 221-413 als passende optionele keuze voor dun lampsnoer.
+- Tabknoppen kunnen afbreken op mobiel; offline cache uitgebreid en versie verhoogd. README bijgewerkt met aantallen, keuzes, bronnen en open punten.
+- Verificatie: node --check voor app.js, products.js en sw.js geslaagd. Chromium 390 × 844: 13 regels, prijs, afbeeldingen, eigen vinkjes na herladen, filters, 16 oude tripregels en offline met foto’s geslaagd; geen overflow of JavaScript-fouten. Desktop- en mobiele screenshot gecontroleerd.

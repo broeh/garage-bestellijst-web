@@ -12,7 +12,7 @@ De publicatie is op verzoek tijdelijk. Er is geen automatische einddatum ingeste
 
 ## Gebruik
 
-- Kies Fase 1, Gereedschap, Fase 2 of Alles.
+- Kies Beslag & elektra, Nieuwe trip, Fase 1, Gereedschap, Fase 2 of Alles. Beslag & elektra opent standaard.
 - Artikelen staan per winkel en op volgorde van het gangnummer in Hornbach Den Haag, vestiging 724. De tellerkopschroeven staan apart bij Toolstation Zoetermeer, Platinastraat 66.
 - Vink af wat al is gekocht. Vinkjes blijven per browser en toestel bewaard, zonder synchronisatie.
 - Zoek op naam, specificatie, artikelnummer of gang. Met ‘Alleen nog nodig’ verdwijnen afgevinkte artikelen.
@@ -50,3 +50,19 @@ Na een wijziging van pagina, scripts, stijlen of afbeeldingen: pas de cacheversi
 ## Verificatie
 
 Gecontroleerd met Chromium op telefoonformaat 390 × 844: alle 28 artikelregels, alle afbeeldingen, afvinken na herladen, filters, zoeken, geen horizontale overflow en offline herladen met afbeeldingen en bewaarde vinkjes. Geen JavaScript-fouten. Daarnaast visuele controle van de mobiele screenshot en een volledige screenshot via de lokale screenshot-CLI.
+
+## Beslag & elektra · 15 november 2026
+
+Nieuw tabblad met 13 regels, eigen afvink-ID’s en lokale productfoto’s. Totaal € 146,99; optionele WAGO-klemmen € 15,69 buiten het totaal. De oude lijsten zijn behouden. Dezelfde dragers staan ook in eerdere trips; de tab Alles is dus geen ontdubbelde bestelling.
+
+- 20 kleine STARX-stoelhoeken 25 × 25 × 15 mm; 200 DRESSELHAUS-schroeven 3,5 × 16 mm.
+- 20 budgetplankdragers, 15 cm diep en 20 cm hoog. Voor plankjes van 10 cm staat de duurdere drager met 8 cm diepte als alternatief bij het artikel.
+- Witte dubbele DOLLE-dragers: 24 × 47 cm, elk 6 × 37, 27, 22 en 17 cm. Wit is goedkoper dan verzinkt; passing vergelijken met de bestaande drager.
+- 20 STARX-hoeken van 40 mm breed voor balkvlakken van 44 mm; dit is geen constructieve goedkeuring.
+- Voorgestelde hoeveelheden: 50 TOX-gipsplaatpluggen met schroeven, 10 m H03VV-F lampsnoer, 10 kroonsteenstrips van 12 polen.
+
+Open punt: Hans heeft nog niet aangegeven of het om flexibel lampsnoer of het verleggen van vaste installatiebedrading gaat. Voorlopige aanname: 230 V flexibel aansluitsnoer voor een dubbelgeïsoleerde lamp. Het 2-aderige snoer heeft geen aarde. Tweelingsnoer tot 42 V is expliciet afgewezen. De kroonstenen zijn alleen opgegeven voor 1,5–2,5 mm²; voor 0,75 mm² staan WAGO-hendelklemmen als passende optionele keuze op de lijst.
+
+Bronmomentopname: `beslag-check.json`, uit de openbare Hornbach-productpagina’s met winkelkeuze 724 en `offerRA.merchant.merchantId = NL724`. Gangen 14, 16, 21 en 22 bevestigd; vaknummers niet verstrekt. Geen reservering. Bron bevat alleen geselecteerde artikelgegevens, geen volledige website-scripts.
+
+Verificatie: JavaScript-syntaxcontrole en Chromium op 390 × 844 geslaagd voor 13 regels, bedrag, alle foto’s, afvinken na herladen, zoeken, alleen-nog-nodig-filter, behoud van 16 oude tripregels, geen horizontale overflow en offline herladen met foto’s. Geen JavaScript-fouten. Desktop- en mobiele screenshots visueel gecontroleerd.

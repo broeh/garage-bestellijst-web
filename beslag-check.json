@@ -1,0 +1,1234 @@
+{
+  "checked": "2026-11-15",
+  "store": "HORNBACH Den Haag",
+  "storeId": "NL724",
+  "source": "Openbare productpagina, winkelkeuze marketNo=724; artikelgegevens en offerRA. Geen vaknummers opgegeven.",
+  "items": [
+    {
+      "article": "7996049",
+      "title": "STARX Stoelhoek 25x25x15 mm verzinkt",
+      "url": "https://www.hornbach.nl/p/starx-stoelhoek-25x25x15-mm-verzinkt/7996049/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 0.15,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 16",
+        "rackSection": null
+      },
+      "availability": "201 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47096441.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Houtverbinder"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Hoekverbinder"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaalspecificatie",
+          "value": "Verzinkt"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gegalvaniseerd"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Grijs"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen, Buiten"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "15 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Lengte",
+          "value": "25 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "25 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal dikte",
+          "value": "2 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "8711332132872, 8713776003114, 8714318045937"
+        }
+      ],
+      "description": "Stoelhoek. Met verzonken schroefgaten."
+    },
+    {
+      "article": "6531145",
+      "title": "DRESSELHAUS JD+ Universele schroef verzonken kop 3,5x16 mm verzonken kop Torx voldraad blank verzinkt, 200 stuks",
+      "url": "https://www.hornbach.nl/p/dresselhaus-jd-universele-schroef-verzonken-kop-3-5x16-mm-verzonken-kop-torx-voldraad-blank-verzinkt-200-stuks/6531145/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.9,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 16",
+        "rackSection": null
+      },
+      "availability": "8 Pak op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.183831263.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Schroef"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Universele schroef"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Grootte",
+          "value": "3,5 x 16 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Lengte",
+          "value": "16 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diameter",
+          "value": "3,5 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Galvanisch verzinkt"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassingsgebied",
+          "value": "Hout"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Beschermd gedeelte buitenshuis, Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kopvorm",
+          "value": "Verzonken kop"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Aandrijving",
+          "value": "TORX"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Melding grootte voor aandrijving",
+          "value": "T 15"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type schroefdraad",
+          "value": "Houtdraad"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Draadtype",
+          "value": "Doorlopende schroefdraad"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "200 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Omschrijving",
+          "value": "JD-Plus"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "ESS3"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4001796203206, 4051427346888"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "article": "2441647",
+      "title": "Plankdrager 15x20 cm wit",
+      "url": "https://www.hornbach.nl/p/plankdrager-15x20-cm-wit/2441647/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 0.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "257 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46680340.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Console"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "37 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "200 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "150 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "De specificatie van het draagvermogen is per stuk"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "40 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "HTMJ"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "2002441647002, 4003984270106, 8711253484227, 8718848169613"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "article": "7023208",
+      "title": "DOLLE Plankdrager dubbel 47 cm wit",
+      "url": "https://www.hornbach.nl/p/dolle-plankdrager-dubbel-47-cm-wit/7023208/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 2.4,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "168 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47391167.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Steun"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Plankdrager, Plankendragers"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Vasthouden"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Ruimtes",
+          "value": "Werkkamer, Kantoor / bedrijfsruimte, Garage"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "10,7 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "85 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "470 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "Specificatie van het draagvermogen is per paar, max. plankdiepte: 200 tot 600 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Variant",
+          "value": "2-rijige"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "65 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "S1R6"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4006676008735, 4007557204048, 4008057453707, 8592485453706"
+        }
+      ],
+      "description": "🔨<b>stevig</b>: gemaakt van gepoedercoat staal<br />🔨<b>sterk</b>: belastbaar tot 65 kg per paar<br />🔨<b>verstelbaar</b>: geschikt voor plankdiepten van 200 mm tot 600 mm<br />🔨<b>eenvoudig</b>: makkelijk te monteren aan jouw wandrail<br />🔨<b>strak</b>: modern design dat in elk interieur past<br /> <br />Deze plankdrager is de perfecte oplossing voor jouw wandplanken. Met een stevige constructie van gepoedercoat staal kan hij tot 65 kg dragen, wat betekent dat je met vertrouwen zware voorwerpen kunt ophangen. Of je nu kiest voor een plank van 200 mm of zelfs 600 mm diep, deze drager past zich aan jouw behoeften aan en zorgt voor een veilige ondersteuning. De moderne uitstraling maakt het een stijlvolle aanvulling voor elke ruimte, of je het nu in de woonkamer, keuken of werkplaats gebruikt. Transformeer jouw muren in een functionele en stijlvolle opbergruimte!"
+    },
+    {
+      "article": "7023207",
+      "title": "DOLLE Plankdrager dubbel 37 cm wit",
+      "url": "https://www.hornbach.nl/p/dolle-plankdrager-dubbel-37-cm-wit/7023207/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 1.65,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "236 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47391056.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Steun"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Plankdrager, Plankendragers"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Vasthouden"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Ruimtes",
+          "value": "Werkkamer, Kantoor / bedrijfsruimte, Garage"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "11 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "67 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "370 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "Specificatie van het draagvermogen is per paar, max. plankdiepte: 200 tot 600 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Variant",
+          "value": "2-rijige"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "55 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "F1X9"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4006676008711, 4007557204031, 4008057453691, 8592485453690"
+        }
+      ],
+      "description": "🔨<b>stevig</b>: gemaakt van gepoedercoat staal<br />🔨<b>sterk</b>: belastbaar tot 55 kg per paar<br />🔨<b>verstelbaar</b>: geschikt voor plankdiepten van 200 mm tot 600 mm<br />🔨<b>eenvoudig</b>: makkelijk te monteren aan jouw wandrail<br />🔨<b>strak</b>: modern design dat in elk interieur past<br /> <br />Deze plankdrager is de perfecte oplossing voor jouw wandplanken. Met een stevige constructie van gepoedercoat staal kan hij tot 55 kg dragen, wat betekent dat je met vertrouwen zware voorwerpen kunt ophangen. Of je nu kiest voor een plank van 200 mm of zelfs 600 mm diep, deze drager past zich aan jouw behoeften aan en zorgt voor een veilige ondersteuning. De moderne uitstraling maakt het een stijlvolle aanvulling voor elke ruimte, of je het nu in de woonkamer, keuken of werkplaats gebruikt. Transformeer jouw muren in een functionele en stijlvolle opbergruimte!"
+    },
+    {
+      "article": "7023206",
+      "title": "DOLLE Plankdrager dubbel 27 cm wit",
+      "url": "https://www.hornbach.nl/p/dolle-plankdrager-dubbel-27-cm-wit/7023206/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 1.59,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "201 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47390955.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Steun"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Plankdrager, Plankendragers"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Vasthouden"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Ruimtes",
+          "value": "Werkkamer, Kantoor / bedrijfsruimte, Garage"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "10,6 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "67 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "270 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "Specificatie van het draagvermogen is per paar, max. plankdiepte: 200 tot 600 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Variant",
+          "value": "2-rijige"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "55 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "6JR1"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4006676008698, 4007557204024, 4008057453684, 8592485453683"
+        }
+      ],
+      "description": "🔨<b>stevig</b>: gemaakt van gepoedercoat staal<br />🔨<b>sterk</b>: belastbaar tot 55 kg per paar<br />🔨<b>verstelbaar</b>: geschikt voor plankdiepten van 200 mm tot 600 mm<br />🔨<b>eenvoudig</b>: makkelijk te monteren aan jouw wandrail<br />🔨<b>strak</b>: modern design dat in elk interieur past<br /> <br />Deze plankdrager is de perfecte oplossing voor jouw wandplanken. Met een stevige constructie van gepoedercoat staal kan hij tot 55 kg dragen, wat betekent dat je met vertrouwen zware voorwerpen kunt ophangen. Of je nu kiest voor een plank van 200 mm of zelfs 600 mm diep, deze drager past zich aan jouw behoeften aan en zorgt voor een veilige ondersteuning. De moderne uitstraling maakt het een stijlvolle aanvulling voor elke ruimte, of je het nu in de woonkamer, keuken of werkplaats gebruikt. Transformeer jouw muren in een functionele en stijlvolle opbergruimte!"
+    },
+    {
+      "article": "7023205",
+      "title": "DOLLE Plankdrager dubbel 22 cm wit",
+      "url": "https://www.hornbach.nl/p/dolle-plankdrager-dubbel-22-cm-wit/7023205/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 1.29,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "143 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47390849.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Steun"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Plankdrager, Plankendragers"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Vasthouden"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Ruimtes",
+          "value": "Werkkamer, Kantoor / bedrijfsruimte, Garage"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "10,2 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "60,5 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "220 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "Specificatie van het draagvermogen is per paar, max. plankdiepte: 200 tot 600 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Variant",
+          "value": "2-rijige"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "55 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "MGS6"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4006676008674, 4007557204017, 4008057453677, 8592485453676"
+        }
+      ],
+      "description": "🔨<b>stevig</b>: gemaakt van gepoedercoat staal<br />🔨<b>sterk</b>: belastbaar tot 55 kg per paar<br />🔨<b>verstelbaar</b>: geschikt voor plankdiepten van 200 mm tot 600 mm<br />🔨<b>eenvoudig</b>: makkelijk te monteren aan jouw wandrail<br />🔨<b>strak</b>: modern design dat in elk interieur past<br /> <br />Deze plankdrager is de perfecte oplossing voor jouw wandplanken. Met een stevige constructie van gepoedercoat staal kan hij tot 55 kg dragen, wat betekent dat je met vertrouwen zware voorwerpen kunt ophangen. Of je nu kiest voor een plank van 200 mm of zelfs 600 mm diep, deze drager past zich aan jouw behoeften aan en zorgt voor een veilige ondersteuning. De moderne uitstraling maakt het een stijlvolle aanvulling voor elke ruimte, of je het nu in de woonkamer, keuken of werkplaats gebruikt. Transformeer jouw muren in een functionele en stijlvolle opbergruimte!"
+    },
+    {
+      "article": "7023204",
+      "title": "DOLLE Plankdrager dubbel 17 cm wit",
+      "url": "https://www.hornbach.nl/p/dolle-plankdrager-dubbel-17-cm-wit/7023204/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 1.05,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 14",
+        "rackSection": null
+      },
+      "availability": "51 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47390763.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Steun"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Plankdrager, Plankendragers"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Vasthouden"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Ruimtes",
+          "value": "Werkkamer, Kantoor / bedrijfsruimte, Garage"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gepoedercoat"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "10 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "41 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "170 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "Specificatie van het draagvermogen is per paar, max. plankdiepte: 200 tot 600 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Variant",
+          "value": "2-rijige"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Max. draagkracht",
+          "value": "55 kg"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "VHV6"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4006676008650, 4007557204000, 4008057453660, 8592485453669"
+        }
+      ],
+      "description": "🔨<b>stevig</b>: gemaakt van gepoedercoat staal<br />🔨<b>sterk</b>: belastbaar tot 55 kg per paar<br />🔨<b>verstelbaar</b>: geschikt voor plankdiepten van 200 mm tot 600 mm<br />🔨<b>eenvoudig</b>: makkelijk te monteren aan jouw wandrail<br />🔨<b>strak</b>: modern design dat in elk interieur past<br /> <br />Deze plankdrager is de perfecte oplossing voor jouw wandplanken. Met een stevige constructie van gepoedercoat staal kan hij tot 55 kg dragen, wat betekent dat je met vertrouwen zware voorwerpen kunt ophangen. Of je nu kiest voor een plank van 200 mm of zelfs 600 mm diep, deze drager past zich aan jouw behoeften aan en zorgt voor een veilige ondersteuning. De moderne uitstraling maakt het een stijlvolle aanvulling voor elke ruimte, of je het nu in de woonkamer, keuken of werkplaats gebruikt. Transformeer jouw muren in een functionele en stijlvolle opbergruimte!"
+    },
+    {
+      "article": "8067726",
+      "title": "STARX Versterkingshoek 40x40x40 mm verzinkt",
+      "url": "https://www.hornbach.nl/p/starx-versterkingshoek-40x40x40-mm-verzinkt/8067726/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 0.47,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 16",
+        "rackSection": null
+      },
+      "availability": "833 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46885791.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Houtverbinder"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Hoekverbinder"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Staal"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaalspecificatie",
+          "value": "Verzinkt"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Oppervlakte/Oppervlaktebehandeling",
+          "value": "Gegalvaniseerd"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Grijs"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Buiten"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "40 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Lengte",
+          "value": "40 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "40 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "1 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "8711481006062, 8713776031452, 8714318007232"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "article": "8229649",
+      "title": "TOX Gipskartonplug GDK Spiral GDK32+S, 50 stuks",
+      "url": "https://www.hornbach.nl/p/tox-gipskartonplug-gdk-spiral-gdk32s-50-stuks/8229649/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 8.75,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "IJzerwaren, gang 16",
+        "rackSection": null
+      },
+      "availability": "52 Pak op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47079961.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Plug"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Gipsplaatplug"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassingsgebied",
+          "value": "Gipskartonplaten"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diameter",
+          "value": "4,5 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Lengte",
+          "value": "32 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleur",
+          "value": "Grijs"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Polyamide (PA)"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Omschrijving",
+          "value": "GGK"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Inhoud",
+          "value": "50 Stuks"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "VXSP"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4049563001334"
+        }
+      ],
+      "description": "Glasvezelversterkte kunststofplug met verzonken kop. Voor bevestiging van afbeeldingen, lampen, elektrische schakelaars, borden, enz. Voor enkellaags gipskartonplaten in wand en plafond."
+    },
+    {
+      "article": "7230677",
+      "title": "Huishoudkabel VMVS 2x0,75 mm² wit 10 m",
+      "url": "https://www.hornbach.nl/p/huishoudkabel-vmvs-2x0-75-mm-wit-10-m/7230677/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 6.91,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "Elektra, gang 21",
+        "rackSection": null
+      },
+      "availability": "39 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.154650214.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Leiding"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Huishoudkabel"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kabelsoort",
+          "value": "H03VV-F"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kabelsoort",
+          "value": "Flexibele leiding"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Eenheid",
+          "value": "Rol"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kabeldoorsnede",
+          "value": "0,75 mm²"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Aantal binnenkabels",
+          "value": "2"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diameter buiten",
+          "value": "5,5 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kabellengte",
+          "value": "10 m"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kenmerk",
+          "value": "-"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "8711332084850"
+        }
+      ],
+      "description": "Huishoudkabel VMVS. Belastbaar tot maximaal 1200 watt."
+    },
+    {
+      "article": "8266982",
+      "title": "Kroonsteen 12 polig 1,5-2,5 mm², 10 stuks",
+      "url": "https://www.hornbach.nl/p/kroonsteen-12-polig-1-5-2-5-mm-10-stuks/8266982/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 5.95,
+        "unit": "Stuks",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "Elektra, gang 22",
+        "rackSection": null
+      },
+      "availability": "18 Stuks op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.47325755.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Klem"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Kroonsteen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Verbinding"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Geschikt voor",
+          "value": "1,5-2,5 mm²"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Accessoires/onderdelen",
+          "value": "12-polig"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Kunststof"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleurfamilie",
+          "value": "Wit"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "4008153264115"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "article": "12630876",
+      "title": "WAGO Lasklem compact 3x 0,2-4 mm² 221-413 oranje 50 st.",
+      "url": "https://www.hornbach.nl/p/wago-lasklem-compact-3x-0-2-4-mm-221-413-oranje-50-st/12630876/?marketNo=724",
+      "price": {
+        "__typename": "PriceWithUnit",
+        "price": 15.69,
+        "unit": "Pak",
+        "currency": "€",
+        "currencyCode": "EUR"
+      },
+      "location": {
+        "__typename": "ArticleLocation",
+        "areaAisle": "Elektra, gang 22",
+        "rackSection": null
+      },
+      "availability": "164 Pak op voorraad in jouw vestiging",
+      "imageSource": "https://media.hornbach.nl/hb/packshot/as.46475887.jpg?dvid=8",
+      "attributes": [
+        {
+          "__typename": "ProductAttribute",
+          "key": "Type artikel",
+          "value": "Klem"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Uitvoering",
+          "value": "Verbindingsklemmen, Steekklem"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Gebruiksmogelijkheden",
+          "value": "Binnen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Toepassing",
+          "value": "Verbinding"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Variant",
+          "value": "Klem voor 3 leidingen"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Eigenschap",
+          "value": "RoHS-conform"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Geschikt voor",
+          "value": "0,14-4mm²"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Accessoires/onderdelen",
+          "value": "met hendel"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Breedte",
+          "value": "18,8 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Hoogte",
+          "value": "8,6 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Diepte",
+          "value": "18,8 mm"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Materiaal",
+          "value": "Kunststof"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "Kleurfamilie",
+          "value": "Transparant, Oranje"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "AKN",
+          "value": "321K"
+        },
+        {
+          "__typename": "ProductAttribute",
+          "key": "EAN",
+          "value": "2007010710347, 4050821808442"
+        }
+      ],
+      "description": ""
+    }
+  ]
+}
